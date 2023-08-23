@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a4149b6.css",
+    "main.js": "/static/js/main.c8998bbb.js",
+    "static/media/0.png": "/static/media/0.9f5845d8383d3c1c0abf.png",
+    "static/media/1.png": "/static/media/1.d274ea949c17d592ea8b.png",
+    "static/media/icomoon.svg?ie0nba": "/static/media/icomoon.4040b51d649340f7e342.svg",
+    "static/media/stwC0.png": "/static/media/stwC0.099039981e655176d755.png",
+    "static/media/stwC1.png": "/static/media/stwC1.7b5e2e8b7f221af66819.png",
+    "static/media/stwC2.png": "/static/media/stwC2.d5a36ce39bdd928915aa.png",
+    "static/media/icomoon.eot?ie0nba": "/static/media/icomoon.f6a1b259b0f3076ce203.eot",
+    "static/media/icomoon.woff?ie0nba": "/static/media/icomoon.cab92581fbc0cea163a4.woff",
+    "static/media/icomoon.ttf?ie0nba": "/static/media/icomoon.12132c6fac849b056fdd.ttf",
+    "static/media/portadaContacto.jpg": "/static/media/portadaContacto.88eae6a2328395528f07.jpg",
+    "static/media/portada.jpg": "/static/media/portada.c6144bc97776267c6690.jpg",
+    "static/media/logo.png": "/static/media/logo.c41a3a9d85507b7622fd.png",
+    "static/media/icomoon.svg?kun1vo": "/static/media/icomoon.54d11850eb3f847da075.svg",
+    "static/media/icomoon.eot?kun1vo": "/static/media/icomoon.2a712d1eca4de64f09b4.eot",
+    "static/media/icomoon.woff?kun1vo": "/static/media/icomoon.1611ef080e70f1cce06d.woff",
+    "static/media/icomoon.ttf?kun1vo": "/static/media/icomoon.c33235e8a6167f95c0a4.ttf",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.5a4149b6.css",
+    "static/js/main.c8998bbb.js"
+  ]
+}
